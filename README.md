@@ -6,9 +6,15 @@ Este repositório tem como objetivo demonstrar os projetos desenvolvidos nos cur
 
 ## Projetos de Data Science
 
-* **PROJETO 1:** [Análise de Empréstimo](https://github.com/JoseCaarlos/Projetos-de-curso-de-Data-Science/tree/master/An%C3%A1lise%20Emprestimo)
-* **PROJETO 2:**  [Base Iris](https://github.com/JoseCaarlos/Projetos-de-curso-de-Data-Science/tree/master/Base%20Iris)
-* **PROJETO 3:**  [Visualização de Dados](https://github.com/JoseCaarlos/Projetos-de-curso-de-Data-Science/tree/master/Visualiza%C3%A7%C3%A3o%20de%20Dados)
+   **MachineLearning**   
+        * **PROJETO 1:**  [Análise de Emprestimo](https://github.com/JoseCaarlos/Projetos-de-curso-de-Data-Science/tree/master/Machine%20Learning/An%C3%A1lise%20Emprestimo)
+        * **PROJETO 2:**  [Base Iris](https://github.com/JoseCaarlos/Projetos-de-curso-de-Data-Science/tree/master/Machine%20Learning/Base%20Iris)
+
+   **Deep Learning**
+        * **PROJETO 1:**  [Reconhecimento de cenas internas](https://github.com/JoseCaarlos/Projetos-de-curso-de-Data-Science/tree/master/DeepLearning/Reconhecimento%20de%20cenas%20internas)	   	    
+	
+   **Visualização de Dados**
+	      * **PROJETO 1:**  [Visualização de Dados](https://github.com/JoseCaarlos/Projetos-de-curso-de-Data-Science/tree/master/Visualiza%C3%A7%C3%A3o%20de%20Dados)
 
 ---
 
