@@ -1,4 +1,4 @@
-# Portifólio de Data Science
+# Portfólio de Data Science
 
 Este repositório tem como objetivo demonstrar os projetos desenvolvidos nos cursos relacionados a Data Science.
 
